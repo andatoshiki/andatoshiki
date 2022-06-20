@@ -2,7 +2,7 @@
 <!--END_SECTION:waka-->
 
 <p align="center">
-    <img src="https://stats.toshiki.top/api?show_bg=1&username=andatoshiki" alt="andatoshiki's profile readme stats"></img>
+    <img src="https://stats.toshiki.top/api?show_bg=1&username=andatoshiki&include_all_commits=true" alt="andatoshiki's profile readme stats"></img>
 </p>
 <!---
 
