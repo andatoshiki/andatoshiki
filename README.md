@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/andatoshiki/toshiki-github-stats/master/generated/languages.svg" alt="andatoshiki's dynamic github language stats"></img>
+    <img src="https://cdn.jsdelivr.net/gh/andatoshiki/toshiki-github-stats@master/generated/languages.svg" alt="andatoshiki's dynamic github language stats"></img>
 </p>
 <!---
 
