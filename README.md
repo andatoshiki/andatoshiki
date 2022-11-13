@@ -2,7 +2,7 @@
 <!--END_SECTION:waka-->
 
 <!-- header sine wave svg with name centered starts-->
-<img width=100% src="./img/header.svg" alt="header banner" />
+<img width=100% src="https://jsd.toshiki.dev/gh/andatoshiki/andatoshiki@master/img/header.svg" alt="header banner" />
 <!-- header sine wave ends -->
 
 <p align="center">
@@ -22,5 +22,5 @@ You can click the Preview link to take a look at your changes.
 <!-- test -->
 
 <!-- footer sine wave svg centered starts-->
-<img width=100% src="./img/footer.svg" alt="footer banner" />
+<img width=100% src="https://jsd.toshiki.dev/gh/andatoshiki/andatoshiki@master/img/footer.svg" alt="footer banner" />
 <!-- footer sine wave ends -->
