@@ -2,7 +2,7 @@
 <!--END_SECTION:waka-->
 
 <!-- header sine wave svg with name centered starts-->
-<img width=100% src="https://r2.toshiki.dev/image/header.svg" alt="header banner" />
+<img width=100% src="https://r2.toshiki.dev/image/header-pink.svg" alt="header banner" />
 <!-- header sine wave ends -->
 
 <p align="center">
