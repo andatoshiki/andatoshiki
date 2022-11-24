@@ -21,5 +21,5 @@ You can click the Preview link to take a look at your changes.
 <!-- test -->
 
 <!-- footer sine wave svg centered starts-->
-<img width=100% src="https://r2.toshiki.dev/image/footer.svg" alt="footer banner" />
+<img width=100% src="https://r2.toshiki.dev/image/footer-pink.svg" alt="footer banner" />
 <!-- footer sine wave ends -->
