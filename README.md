@@ -21,6 +21,13 @@ dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
 ## Development metrics
 
 <!--START_SECTION:waka-->
+
+```text
+From: 28 November 2021 - To: 02 December 2022
+
+Other                      67 hrs 8 mins   █████░░░░░░░░░░░░░░░░░░░░   19.38 %
+```
+
 <!--END_SECTION:waka-->
 
 <!--
