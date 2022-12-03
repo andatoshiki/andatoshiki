@@ -25,9 +25,9 @@ dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
 <!--START_SECTION:waka-->
 
 ```text
-YAML               6 hrs 2 mins    █████████░░░░░░░░░░░░░░░░   36.30 %
-NSIS               3 hrs 6 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.71 %
-Other              1 hr 28 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.86 %
+YAML               6 hrs 10 mins   █████████░░░░░░░░░░░░░░░░   35.98 %
+NSIS               2 hrs 53 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.88 %
+Other              1 hr 28 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 %
 ```
 
 <!--END_SECTION:waka-->
