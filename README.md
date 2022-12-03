@@ -23,9 +23,9 @@ dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
 <!--START_SECTION:waka-->
 
 ```text
-From: 28 November 2021 - To: 02 December 2022
-
-Other                      67 hrs 8 mins   █████░░░░░░░░░░░░░░░░░░░░   19.38 %
+YAML               6 hrs 2 mins    █████████░░░░░░░░░░░░░░░░   36.30 %
+NSIS               3 hrs 6 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.71 %
+Other              1 hr 28 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.86 %
 ```
 
 <!--END_SECTION:waka-->
