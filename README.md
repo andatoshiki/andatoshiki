@@ -20,7 +20,7 @@ dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
 
 ## Development metrics
 
-### 📊 Wakatime weekly development breakdown
+**📊 Wakatime weekly development breakdown**
 
 <!--START_SECTION:waka-->
 
