@@ -1,6 +1,3 @@
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
 <!-- header sine wave svg with name centered starts-->
 <img width=100% src="https://cdn.jsdelivr.net/gh/andatoshiki/andatoshiki@master/assets/header-pink.svg" alt="header banner" />
 <!-- header sine wave ends -->
@@ -20,6 +17,11 @@ dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
 <p align="center">
     <img src="https://cdn.jsdelivr.net/gh/andatoshiki/toshiki-github-stats@master/generated/languages.svg" alt="andatoshiki's dynamic github language stats"></img>
 </p>
+
+## Development metrics
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <!--
 andatoshiki/andatoshiki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
