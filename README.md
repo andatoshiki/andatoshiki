@@ -2,12 +2,12 @@
 <!--END_SECTION:waka-->
 
 <!-- header sine wave svg with name centered starts-->
-<img width=100% src="https://r2.toshiki.dev/image/header-pink.svg" alt="header banner" />
+<img width=100% src="https://cdn.jsdelivr.net/gh/andatoshiki/andatoshiki@master/assets/header-pink.svg" alt="header banner" />
 <!-- header sine wave ends -->
 
 <h1>d</h1>
 
-<img src="https://r2.toshiki.dev/image/avatar.png" alt="logo" width="140" height="140" align="left" />
+<img src="https://cdn.jsdelivr.net/gh/andatoshiki/andatoshiki@master/assets/avatar.png" alt="logo" width="140" height="140" align="left" />
 
 > The all-in-one crawler/scraper for crunching free proxy nodes of SS, SSR, vmess, trojan!
 
@@ -29,5 +29,5 @@ You can click the Preview link to take a look at your changes.
 <!-- test -->
 
 <!-- footer sine wave svg centered starts-->
-<img width=100% src="https://r2.toshiki.dev/image/footer-pink.svg" alt="footer banner" />
+<img width=100% src="https://cdn.jsdelivr.net/gh/andatoshiki/andatoshiki@master/assets/footer-pink.svg" alt="footer banner" />
 <!-- footer sine wave ends -->
