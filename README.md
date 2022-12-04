@@ -2,7 +2,7 @@
 <img width=100% src="https://cdn.jsdelivr.net/gh/andatoshiki/andatoshiki@master/assets/header-pink.svg" alt="header banner" />
 <!-- header sine wave ends -->
 
-<h1>d</h1>
+# d
 
 <img src="https://cdn.jsdelivr.net/gh/andatoshiki/andatoshiki@master/assets/avatar.png" alt="logo" width="140" height="140" align="left" />
 
@@ -20,9 +20,9 @@ dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
 
 ## Development metrics
 
-**📊 Wakatime weekly development breakdown**
+📊 Wakatime weekly development breakdown
 
-<!--START_SECTION:waka-->
+<!--START_SECTION:wakabox-lang-->
 
 ```text
 YAML               6 hrs 10 mins   █████████░░░░░░░░░░░░░░░░   35.98 %
@@ -30,7 +30,7 @@ NSIS               2 hrs 53 mins   ████▒░░░░░░░░░░
 Other              1 hr 28 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 %
 ```
 
-<!--END_SECTION:waka-->
+<!--END_SECTION:wakabox-lang-->
 
 <!--
 andatoshiki/andatoshiki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
