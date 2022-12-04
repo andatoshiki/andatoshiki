@@ -22,15 +22,8 @@ dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
 
 📊 Wakatime weekly development breakdown
 
-<!--START_SECTION:wakabox-lang-->
-
-```text
-YAML               6 hrs 10 mins   █████████░░░░░░░░░░░░░░░░   35.98 %
-NSIS               2 hrs 53 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.88 %
-Other              1 hr 28 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 %
-```
-
-<!--END_SECTION:wakabox-lang-->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <!--
 andatoshiki/andatoshiki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
