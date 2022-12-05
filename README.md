@@ -23,6 +23,16 @@ dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
 📊 Wakatime weekly development breakdown
 
 <!--START_SECTION:waka2readme-->
+
+```text
+💬 Languages: From: 27 November 2022 - To: 04 December 2022
+
+YAML               4 hrs 51 mins   ███████▓░░░░░░░░░░░░░░░░░   30.16 %
+NSIS               2 hrs 53 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.94 %
+Markdown           1 hr 43 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.71 %
+Other              1 hr 19 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 %
+```
+
 <!--END_SECTION:waka2readme-->
 
 <!--
