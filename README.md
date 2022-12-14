@@ -25,9 +25,10 @@ dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
 <!--START_SECTION:waka2readme-->
 
 ```text
-💬 Languages: From: 05 December 2022 - To: 12 December 2022
+💬 Languages: From: 06 December 2022 - To: 13 December 2022
 
-Other        1 hr 53 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.94 %
+TOML         1 hr 50 mins    ███████▒░░░░░░░░░░░░░░░░░   29.14 %
+Other        1 hr 44 mins    ███████░░░░░░░░░░░░░░░░░░   27.37 %
 ```
 
 <!--END_SECTION:waka2readme-->
