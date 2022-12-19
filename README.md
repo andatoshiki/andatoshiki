@@ -25,10 +25,11 @@ dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
 <!--START_SECTION:waka2readme-->
 
 ```text
-💬 Languages: From: 10 December 2022 - To: 17 December 2022
+💬 Languages: From: 11 December 2022 - To: 18 December 2022
 
-JavaScript   41 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.60 %
-Other        36 mins         █████░░░░░░░░░░░░░░░░░░░░   19.83 %
+JavaScript   41 mins         ██████░░░░░░░░░░░░░░░░░░░   24.23 %
+Markdown     26 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.17 %
+Other        24 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.05 %
 ```
 
 <!--END_SECTION:waka2readme-->
