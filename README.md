@@ -25,7 +25,7 @@ dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
 <!--START_SECTION:waka2readme-->
 
 ```text
-💬 Languages: From: 25 December 2022 - To: 01 January 2023
+💬 Languages: From: 26 December 2022 - To: 02 January 2023
 
 XML          1 hr 32 mins    █████████████░░░░░░░░░░░░   52.57 %
 Text         38 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.88 %
