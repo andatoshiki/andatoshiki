@@ -25,7 +25,7 @@ dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
 <!--START_SECTION:waka2readme-->
 
 ```text
-💬 Languages: From: 01 January 2023 - To: 08 January 2023
+💬 Languages: From: 02 January 2023 - To: 09 January 2023
 
 Rust         2 hrs           ████████░░░░░░░░░░░░░░░░░   32.42 %
 EJS          1 hr 15 mins    █████░░░░░░░░░░░░░░░░░░░░   20.19 %
