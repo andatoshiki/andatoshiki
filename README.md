@@ -25,7 +25,7 @@ dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
 <!--START_SECTION:waka2readme-->
 
 ```text
-💬 Languages: From: 07 January 2023 - To: 14 January 2023
+💬 Languages: From: 08 January 2023 - To: 15 January 2023
 
 MDX          1 hr 2 mins     ███████████░░░░░░░░░░░░░░   44.18 %
 TypeScript   26 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.71 %
