@@ -25,7 +25,7 @@ dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
 <!--START_SECTION:waka2readme-->
 
 ```text
-💬 Languages: From: 15 January 2023 - To: 22 January 2023
+💬 Languages: From: 16 January 2023 - To: 23 January 2023
 
 TypeScript   1 hr 19 mins    █████████▒░░░░░░░░░░░░░░░   36.84 %
 XML          35 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.65 %
