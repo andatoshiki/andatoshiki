@@ -25,7 +25,11 @@ dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
 <!--START_SECTION:waka2readme-->
 
 ```text
-No activity tracked
+💬 Languages: From: 23 January 2023 - To: 30 January 2023
+
+YAML         1 hr 12 mins    ████████░░░░░░░░░░░░░░░░░   31.62 %
+TypeScript   35 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.45 %
+Other        28 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.55 %
 ```
 
 <!--END_SECTION:waka2readme-->
