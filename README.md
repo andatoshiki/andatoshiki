@@ -25,7 +25,7 @@ dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
 <!--START_SECTION:waka2readme-->
 
 ```text
-💬 Languages: From: 27 January 2023 - To: 03 February 2023
+💬 Languages: From: 28 January 2023 - To: 04 February 2023
 
 Astro        4 hrs 55 mins   ██████████▓░░░░░░░░░░░░░░   43.05 %
 YAML         1 hr 59 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.50 %
