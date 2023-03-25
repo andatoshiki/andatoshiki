@@ -1,5 +1,5 @@
 <!-- header sine wave svg with name centered starts-->
-<img width=100% src="https://cdn.jsdelivr.net/gh/andatoshiki/andatoshiki@master/assets/header-pink.svg" alt="header banner" />
+<img width=100% src="./assets/header-pink.svg" alt="header banner" />
 <!-- header sine wave ends -->
 
 ## d
