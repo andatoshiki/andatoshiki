@@ -30,3 +30,7 @@ output/*
 !output/.gitkeep
 
 dev.js
+
+yarn.lock
+
+.env

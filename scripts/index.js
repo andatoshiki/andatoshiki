@@ -14,7 +14,7 @@ const npmScript = async () => {
   // packages downloads map
   const packageDownloadsMap = new Map()
   await Promise.all(
-    packages.map(async (package) => {
+    packages.map(async package => {
       const packageName = package.package.name
       const downloadsResult = await fetchNPMPackageDownloads(packageName)
       const downloads = downloadsResult?.downloads || 0
@@ -57,7 +57,7 @@ const githubScript = async () => {
     languages: [],
     topics: [],
   }
-  repositories.forEach((repository) => {
+  repositories.forEach(repository => {
     statistics.stars += repository.stargazers_count
     statistics.forks += repository.forks_count
     statistics.open_issues += repository.open_issues

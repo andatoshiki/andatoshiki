@@ -1,0 +1,14 @@
+{
+  "plugins": {
+    "blog": {
+      "url": "https://www.nexxel.dev/",
+      "rss_url": "https://www.nexxel.dev/rss.xml",
+      "latest": 5
+    },
+    "twitter": {
+      "url": "https://twitter.com/andatoshiki/",
+      "rss_url": "https://rsshub.app/twitter/user/andatoshiki",
+      "latest": 5
+    }
+  }
+}

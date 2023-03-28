@@ -1,0 +1,33 @@
+name: Update RSS feeds on README section
+
+on:
+  push:
+  workflow_dispatch: # allow users to randomly trigger workflows for debugging
+  schedule:
+    - cron: '0 * * * *' # workflow run per 24 hours
+
+jobs:
+  update:
+   runs-on: ubuntu-latest
+   steps:
+    - name: Check out the latest commit of the repository history
+      uses: actions/checkout@v2
+    - name: Set up node environment
+      uses: actions/setup-node@v3
+      with:
+        node-version: 16
+    - name: Install node dependencies for running build
+      run: |
+        yarn install
+        yarn lint
+    - name: Generate RSS feeds from source into Markdown formatting
+      run: |
+        yarn generate
+    - name: Commit changed README file and push to repository
+      run: |
+        git diff
+        git config --global user.email "hello@toshiki.dev"
+        git config --global user.name "@andatoshiki"
+        git add .
+        git commit -m 'chore(update): update readme with the latest rss feeds'
+        git push -f origin master
