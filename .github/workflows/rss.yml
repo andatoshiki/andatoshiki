@@ -23,17 +23,14 @@ jobs:
     - name: Generate RSS feeds from source into Markdown formatting
       run: |
         yarn generate
-    - name: Commit changed README file
+    - name: Commit changed README file and push changes to repository
       run: |
         git diff
         git config --global user.email "hello@toshiki.dev"
         git config --global user.name "@andatoshiki"
-        git remote set-url --push origin https://andatoshiki:${{ secrets.GH_PAT }}@github.com/andatoshiki/andatoshiki
         git add .
         git commit -m 'chore(update): update readme with the latest rss feeds'
         git push -f origin master
-    # - name: Push changes to repository
-    #   uses: ad-m/github-push-action@master
-    #   with:
-    #     github_token: ${{ secrets.GITHUB_TOKEN }}
-    #     branch: ${{ github.ref }}
+      with:
+        github_token: ${{ secrets.GH_PAT }}
+        branch: ${{ github.ref }}
