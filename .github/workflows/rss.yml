@@ -29,5 +29,10 @@ jobs:
         git config --global user.email "hello@toshiki.dev"
         git config --global user.name "@andatoshiki"
         git add -A
-        git commit -m 'chore(update): update readme with the latest rss feeds' || exit 0
+        git commit -a -m 'chore(update): update readme with the latest rss feeds' || exit 0
         git push -f origin master
+    - name: Push changes to remote repository
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        branch: ${{ github.ref }}
