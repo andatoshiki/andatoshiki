@@ -34,5 +34,5 @@ jobs:
     - name: Push changes to remote repository
       uses: ad-m/github-push-action@master
       with:
-        github_token: ${{ secrets.GH_PAT }}
+        github_token: ${{ secrets.GH_PAT }} # personal access token
         branch: ${{ github.ref }}
