@@ -30,7 +30,7 @@ jobs:
         git config --global user.name "@andatoshiki"
         git add .
         git commit -m 'chore(update): update readme with the latest rss feeds'
-    - name: Push changes
+    - name: Push changes to repository
       uses: ad-m/github-push-action@master
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
