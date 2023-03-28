@@ -13,7 +13,7 @@ jobs:
     - name: Check out the latest commit of the repository history
       uses: actions/checkout@v2
       with:
-        token: ${{ secrets.GH_PAT }}
+        token: ${{ secrets.GITHUB_TOKEN }}
     - name: Set up node environment
       uses: actions/setup-node@v3
       with:
