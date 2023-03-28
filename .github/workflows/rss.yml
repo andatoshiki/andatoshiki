@@ -28,9 +28,6 @@ jobs:
         git diff
         git config --global user.email "hello@toshiki.dev"
         git config --global user.name "@andatoshiki"
-        git add .
-        git commit -m 'chore(update): update readme with the latest rss feeds'
+        git add -A
+        git commit -m 'chore(update): update readme with the latest rss feeds' || exit 0
         git push -f origin master
-      with:
-        github_token: ${{ secrets.GH_PAT }}
-        branch: ${{ github.ref }}
