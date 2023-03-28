@@ -1,8 +1,8 @@
 <!-- header sine wave svg with name centered starts-->
-<!-- <img width=100% src="./assets/header-pink.svg" alt="header banner" /> -->
+<img width=100% src="./assets/header-pink.svg" alt="header banner" />
 <!-- header sine wave ends -->
 
-# Anda Toshiki (安田俊樹)
+<!-- # Anda Toshiki (安田俊樹) -->
 
 ## 👋 ようこそ、Developers!
 
@@ -157,10 +157,10 @@ Other        28 mins         █░░░░░░░░░░░░░░░░
     <img src="https://cdn.jsdelivr.net/gh/andatoshiki/toshiki-github-stats@master/generated/languages.svg" alt="andatoshiki's dynamic github language stats"></img>
 </p> -->
 
-<!-- footer sine wave svg centered starts-->
-<!-- <img width=100% src="./assets/footer-pink.svg" alt="footer banner" /> -->
-<!-- footer sine wave ends -->
-
 <p align="center">
     <img src="https://moe-counter.glitch.me/get/@andatoshiki:github?theme=rule34">
 </p>
+
+<!-- footer sine wave svg centered starts-->
+<img width=100% src="./assets/footer-pink.svg" alt="footer banner" />
+<!-- footer sine wave ends -->
