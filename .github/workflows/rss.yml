@@ -12,6 +12,8 @@ jobs:
    steps:
     - name: Check out the latest commit of the repository history
       uses: actions/checkout@v2
+      with:
+        token: ${{ secrets.GH_PAT }}
     - name: Set up node environment
       uses: actions/setup-node@v3
       with:
