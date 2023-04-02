@@ -10,19 +10,13 @@
 
 Introduction once more, my name is Anda Toshiki, pronounced as `AHN-dah TOH-shee-kee` in case you find my name obscure to read out. I'm currently a precollege student with offer of admission from [UB (University at Buffalo)](https://www.buffalo.edu) as a transfer student to [(CIT) California Institute of Technology](https://www.caltech.edu). I am also the founder of [Toshiki Dev](https://github.com/toshikidev) as the first _organizational_ community I have ever created for building functional utility components and webapps/software to my own needs as serving solutions to people having the same requests, additionally I am maintaining the community with both of my cat 😺 (玉ちゃん & 桃ちゃん both of them are [cute girls](https://www.youtube.com/shorts/FT9FOI-yJP4)!)
 
-### 1: Pronouns
+- **Pronouns**: **She/her** (internet wide, I'm a loli :P); **he/him** if you happens to meet me offline, **they/them** additionally.
 
-**She/her** (internet wide, I'm a loli :P); **he/him** if you happens to meet me offline, **they/them** additionally.
+- **Languages**: I was raised in a trilingual family since born thus I speak three languages, **English** primarily, proficient in **Chinese** and fluent in **Japanese**, all three languages are welcomed to use when having conversations with me, I also don't mind blending all three languages together as a way to improve my long-lost Japanese language grammar!
 
-### 2: Languages
+  I'm presently learning Spanish as one of the second-most widely spoken language in the world to fit the demands of writing _espanol_ oriented documentation for better i18n experiences on my projects.
 
-I was raised in a trilingual family since born thus I speak three languages, **English** primarily, proficient in **Chinese** and fluent in **Japanese**, all three languages are welcomed to use when having conversations with me, I also don't mind blending all three languages together as a way to improve my long-lost Japanese language grammar!
-
-I'm presently learning Spanish as one of the second-most widely spoken language in the world to fit the demands of writing _espanol_ oriented documentation for better i18n experiences on my projects.
-
-### 3: Academics
-
-I current studying Data Science and Physics as core essentials for my academia. Frontend developing and Computer Networking are both my hobbies at rest while I mostly work with numbers and maths mainly. I am also obsessed with _process automation_, _CI/CD_, I am highly active on building practical GitHub actions for easing my DevOps life.
+- **Academics**: I current studying Data Science and Physics as core essentials for my academia. Frontend developing and Computer Networking are both my hobbies at rest while I mostly work with numbers and maths mainly. I am also obsessed with _process automation_, _CI/CD_, I am highly active on building practical GitHub actions for easing my DevOps life.
 
 ### 4: Hobbies
 
@@ -113,9 +107,12 @@ Other        28 mins         █░░░░░░░░░░░░░░░░
 <tr>
 <td valign="top" width="50%">
 
-#### GitHub development metrics
+#### GitHub activity metrics
 
-![Anda Toshiki's GitHub stats](https://github-readme-stats.vercel.app/api?username=andatoshiki&show_icons=false&theme=transparent&hide_border=true&text_color=FFF&icon_color=FFF&title_color=FFF)
+<!-- ![Anda Toshiki's GitHub stats](https://github-readme-stats.vercel.app/api?username=andatoshiki&show_icons=false&theme=transparent&hide_border=true&text_color=FFF&icon_color=FFF&title_color=FFF) -->
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 </td>
 <td valign="top" width="50%">
