@@ -1,4 +1,4 @@
-name: waka2readme
+name: Update Wakatime metrics to readme with code fences
 
 on:
   workflow_dispatch: # for manual workflow trigger
