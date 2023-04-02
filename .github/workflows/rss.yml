@@ -8,33 +8,33 @@ on:
 
 jobs:
   update:
-   runs-on: ubuntu-latest
-   steps:
-    - name: Check out the latest commit of the repository history
-      uses: actions/checkout@v2
-      with:
-        token: ${{ secrets.GH_PAT }}
-    - name: Set up node environment
-      uses: actions/setup-node@v3
-      with:
-        node-version: 16
-    - name: Install node dependencies for running build
-      run: |
-        yarn install
-        yarn lint
-    - name: Generate RSS feeds from source into Markdown formatting
-      run: |
-        yarn generate
-    - name: Commit changed README file and push changes to repository
-      run: |
-        git diff
-        git config --global user.email "hello@toshiki.dev"
-        git config --global user.name "@andatoshiki"
-        git add -A
-        git commit -a -m 'chore(update): update readme with the latest rss feeds' || exit 0
-        git push -f origin master
-    - name: Push changes to remote repository
-      uses: ad-m/github-push-action@master
-      with:
-        github_token: ${{ secrets.GH_PAT }} # personal access token
-        branch: ${{ github.ref }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out the latest commit of the repository history
+        uses: actions/checkout@v2
+        with:
+          token: ${{ secrets.GH_PAT }}
+      - name: Set up node environment
+        uses: actions/setup-node@v3
+        with:
+          node-version: 16
+      - name: Install node dependencies for running build
+        run: |
+          yarn install
+          yarn lint
+      - name: Generate RSS feeds from source into Markdown formatting
+        run: |
+          yarn generate
+      - name: Commit changed README file and push changes to repository
+        run: |
+          git diff
+          git config --global user.email "hello@toshiki.dev"
+          git config --global user.name "@andatoshiki"
+          git add -A
+          git commit -a -m 'chore(update): update readme with the latest rss feeds' || exit 0
+          git push -f origin master
+      - name: Push changes to remote repository
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GH_PAT }} # personal access token
+          branch: ${{ github.ref }}
