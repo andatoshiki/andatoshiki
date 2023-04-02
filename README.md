@@ -10,30 +10,30 @@
 
 Introduction once more, my name is Anda Toshiki, pronounced as `AHN-dah TOH-shee-kee` in case you find my name obscure to read out. I'm currently a precollege student with offer of admission from [UB (University at Buffalo)](https://www.buffalo.edu) as a transfer student to [(CIT) California Institute of Technology](https://www.caltech.edu). I am also the founder of [Toshiki Dev](https://github.com/toshikidev) as the first _organizational_ community I have ever created for building functional utility components and webapps/software to my own needs as serving solutions to people having the same requests, additionally I am maintaining the community with both of my cat 😺 (玉ちゃん & 桃ちゃん both of them are [cute girls](https://www.youtube.com/shorts/FT9FOI-yJP4)!)
 
-- **Pronouns**: **She/her** (internet wide, I'm a loli :P); **he/him** if you happens to meet me offline, **they/them** additionally.
+- **🤷‍♀️ Pronouns**: **She/her** (internet wide, I'm a loli :P); **he/him** if you happens to meet me offline, **they/them** additionally.
 
-- **Languages**: I was raised in a trilingual family since born thus I speak three languages, **English** primarily, proficient in **Chinese** and fluent in **Japanese**, all three languages are welcomed to use when having conversations with me, I also don't mind blending all three languages together as a way to improve my long-lost Japanese language grammar!
+- **👌 Languages**: I was raised in a trilingual family since born thus I speak three languages, **English** primarily, proficient in **Chinese** and fluent in **Japanese**, all three languages are welcomed to use when having conversations with me, I also don't mind blending all three languages together as a way to improve my long-lost Japanese language grammar!
 
   I'm presently learning Spanish as one of the second-most widely spoken language in the world to fit the demands of writing _espanol_ oriented documentation for better i18n experiences on my projects.
 
-- **Academics**: I current studying Data Science and Physics as core essentials for my academia. Frontend developing and Computer Networking are both my hobbies at rest while I mostly work with numbers and maths mainly. I am also obsessed with _process automation_, _CI/CD_, I am highly active on building practical GitHub actions for easing my DevOps life.
+- **🎓 Academics**: I current studying Data Science and Physics as core essentials for my academia. Frontend developing and Computer Networking are both my hobbies at rest while I mostly work with numbers and maths mainly. I am also obsessed with _process automation_, _CI/CD_, I am highly active on building practical GitHub actions for easing my DevOps life.
 
-- **Frontend development & blogging**: Aside from academic learnings, I am also captivated into frontend development and blogging, more specifically theming and beautification. I was introduced to [HUGO](https://github.com/gohugoio/hugo) when I first get started with website generator/blog building, I contributes one of the best hugo theme communities-[Fixit](https://github.com/hugo-fixit/FixIt) on GitHub. I have also independently created other themes such as gallery and showcasing sites (see more in the projects table below)...
+- **👩‍💻 Frontend development & blogging**: Aside from academic learnings, I am also captivated into frontend development and blogging, more specifically theming and beautification. I was introduced to [HUGO](https://github.com/gohugoio/hugo) when I first get started with website generator/blog building, I contributes one of the best hugo theme communities-[Fixit](https://github.com/hugo-fixit/FixIt) on GitHub. I have also independently created other themes such as gallery and showcasing sites (see more in the projects table below)...
 
-- **Documenting**: I have a strong eagerness on finding the best solution for issues I encounters and devote to understand hard concepts; in order to respond to this fetish, I enjoys documenting notes and epiphanies in detailed and specific no matter how much time it waste, it deserves my dedication (see my notes [in action](https://note.toshiki.dev)).
+- **📃 Documenting**: I have a strong eagerness on finding the best solution for issues I encounters and devote to understand hard concepts; in order to respond to this fetish, I enjoys documenting notes and epiphanies in detailed and specific no matter how much time it waste, it deserves my dedication (see my notes [in action](https://note.toshiki.dev)).
 
-- **Art**: I engage in pixel art and indie game developments when free, I practice techniques and share my artworks on [Discord Pixel Art](https://discord.gg/pixelart) community.
+- **🎨 Art**: I engage in pixel art and indie game developments when free, I practice techniques and share my artworks on [Discord Pixel Art](https://discord.gg/pixelart) community.
 
-- **Anime**: I am a heavy _weeb_ whom watches anime a lot at my leisure, my favorite anime so far is, ["DanMachi" (ダンジョンに出会いを求めるのは間違っているだろうか)](https://danmachi.fandom.com/wiki/DanMachi_Wiki).
+- **🎭 Anime**: I am a heavy _weeb_ whom watches anime a lot at my leisure, my favorite anime so far is, ["DanMachi" (ダンジョンに出会いを求めるのは間違っているだろうか)](https://danmachi.fandom.com/wiki/DanMachi_Wiki).
 
-- **Collectomania**: I love collecting resources from different field, from photography sets to reference books to torrents to movies et cetera. (But I usually read through any of them instead just let them sit in my hard drives).
+- **💾 Collectomania**: I love collecting resources from different field, from photography sets to reference books to torrents to movies et cetera. (But I usually read through any of them instead just let them sit in my hard drives).
 
-- **Photography & photo editing**: I have intermediate experience with photography editing with both PhotoShop and Illustrator and have been using both tools on daily bases to commit minor edits on photos to level of perfections; I am also interested in photography, I records everything aesthetic in life with cameras and showcase them at my [web gallery](https://gallery.toshiki.dev).
+- **📸 Photography & photo editing**: I have intermediate experience with photography editing with both PhotoShop and Illustrator and have been using both tools on daily bases to commit minor edits on photos to level of perfections; I am also interested in photography, I records everything aesthetic in life with cameras and showcase them at my [web gallery](https://gallery.toshiki.dev).
 
 In order to prove my real identity as a human being, I have verified my identity with a GPG public key hosted on [Keybase - Anda Toshiki (@toshikidev)](https://keybase.io/toshikidev) with [ownership of domain `www.toshiki.dev`](https://keybase.io/toshikidev/sigchain#7a41ec772fd948db46e454c55efc71005299fe7b3ed76b789bbcdb5a7505667c0f) via https; which validates I am legitimately a **cute, living human loli** on Earth, you can pull and import my GPG public keys onto your local machine with the following command using cURL.
 
 ```sh
-curl https://keybase.io/toshikidev/pgp_keys.asc | gpg --import
+curl https://keybase.io/toshikidev/pgp_keys.asc | gpg --import #🔑
 ```
 
 <table width="960px">
@@ -125,7 +125,6 @@ Other        28 mins         █░░░░░░░░░░░░░░░░
 #### 5.5: OS
 
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=flat&logo=Windows%2011&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white) ![Openwrt](https://img.shields.io/badge/OpenWRT-00B5E2?style=flat&logo=OpenWrt&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
-
 
 ### 8. Projects
 
