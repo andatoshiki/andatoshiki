@@ -1,5 +1,5 @@
 <!-- # Anda Toshiki (安田俊樹) -->
-![header name badge](./assets/header-name-badge.png)
+![header name badge](./assets/header-name-badge-dark.png)
 ## 👋 ようこそ、Developers!
 
 <img src="https://cdn.jsdelivr.net/gh/andatoshiki/andatoshiki@master/assets/avatar.png" alt="logo" width="140" height="140" align="left" />
