@@ -134,6 +134,72 @@ Other        28 mins         █░░░░░░░░░░░░░░░░
 
 </table>
 
+<table width="960px">
+<tr>
+<td valign="top" width="50%">
+
+#### [Wakatime](https://wakatime.com) development breakdown
+
+<!--START_SECTION:waka2readme-->
+
+```text
+Markdown     2 hrs 40 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.89 %
+TypeScript   2 hrs 28 mins   ██████░░░░░░░░░░░░░░░░░░░   23.95 %
+JavaScript   1 hr 22 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.27 %
+Vue.js       1 hr 7 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.93 %
+JSON         54 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.75 %
+Other        28 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 %
+```
+
+<!--END_SECTION_:waka2readme_-->
+
+</td>
+<td valign="top" width="50%">
+
+#### <a href="https://blog-next.toshiki.dev" target="_blank">Blog RSS updates</a>
+
+<!-- blog_plugin_start -->
+
+- <a href='https://www.nexxel.dev/blog/ct3a-guestbook/' target='_blank'>Build a Full Stack App with create-t3-app</a> - 2022-08-11
+- <a href='https://www.nexxel.dev/blog/ct3a/' target='_blank'>T3 Stack and My Most Popular Open Source Project Ever</a> - 2022-06-27
+- <a href='https://www.nexxel.dev/blog/deoxys/' target='_blank'>How I Made a Really Fast Link Shortener That Runs on the Edge</a> - 2022-06-01
+- <a href='https://www.nexxel.dev/blog/gen-license/' target='_blank'>Create Licenses for Your Projects Right from the Terminal</a> - 2022-03-25
+- <a href='https://www.nexxel.dev/blog/go-gol/' target='_blank'>Conway's Game of Life in Go</a> - 2022-03-17
+
+<!-- blog_plugin_end -->
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+
+#### GitHub activity metrics
+
+![Anda Toshiki's GitHub contribution](https://github-readme-activity-graph.cyclic.app/graph?username=andatoshiki&theme=github-compact)
+
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:end-->
+
+</td>
+<td valign="top" width="50%">
+
+#### <a href="https://twitter.com/andatoshiki" target="_blank">Twitter updates</a>
+
+<!-- twitter_plugin_start -->
+
+- <a href='https://twitter.com/andatoshiki/status/1640183615249346560' target='_blank'>Verifying myself: I am toshikidev on http://Keybase.io. pQuYoKO8oET7dLOazltqkPLQs2MIceG5rr3m / https://keybase.io/toshikidev/sigs/pQuYoKO8oET7dLOazltq...</a> - 2023-03-27
+- <a href='https://twitter.com/andatoshiki/status/1639967758782812161' target='_blank'>Sakura 🌸 https://t.co/YoEmRMTmr3</a> - 2023-03-26
+- <a href='https://twitter.com/andatoshiki/status/1639542865130057729' target='_blank'>I love Excalidraw for architectural diagrams! #excalidraw #diagram #architecture #software #engineering #graph https://t.co/comucWgobW</a> - 2023-03-25
+- <a href='https://twitter.com/andatoshiki/status/1633310247464091649' target='_blank'>Re @hamident83hami @SaveToNotion tweet</a> - 2023-03-08
+- <a href='https://twitter.com/andatoshiki/status/1633080703771639809' target='_blank'>Re @LinuxHandbook @SaveToNotion #thread</a> - 2023-03-07
+
+<!-- twitter_plugin_end -->
+
+</td>
+</tr>
+
+</table>
+
 ### 8. Projects
 
 | &nbsp;                                                    | Repository                                                                        | Tags                                                                             | Homepage                                | Stars                                                                                         | Last Commit                                                                                                          | Description                                                                                                                                                                                                        |
