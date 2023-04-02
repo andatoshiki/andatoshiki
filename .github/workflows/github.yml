@@ -9,12 +9,8 @@ jobs:
   build:
     runs-on: ubuntu-latest
     name: Update this repo's README with recent activity
-
     steps:
       - uses: actions/checkout@v2
-      - uses: jamesgeorge007/github-activity-readme@master
+      - uses: Readme-Workflows/recent-activity@v1.3.0
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          COMMIT_MSG: 'chore(update): update readme with the latest github activities'
-          MAX_LINES: 5
+          GITHUB_TOKEN: ${{ secrets.README_TOKEN }}
