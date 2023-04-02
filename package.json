@@ -1,8 +1,8 @@
 {
-  "name": "surmon-china",
-  "version": "0.1.2",
+  "name": "andatoshiki",
+  "version": "0.0.1",
   "main": "scripts/index.js",
-  "repository": "git@github.com:surmon-china/surmon-china.git",
+  "repository": "git@github.com:andatoshiki/andatoshiki.git",
   "author": "Anda Toshiki <hello@toshiki.dev>",
   "license": "UNLICENSED",
   "config": {
