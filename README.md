@@ -111,13 +111,13 @@ Other        28 mins         █░░░░░░░░░░░░░░░░
 
 <!-- ![Anda Toshiki's GitHub stats](https://github-readme-stats.vercel.app/api?username=andatoshiki&show_icons=false&theme=transparent&hide_border=true&text_color=FFF&icon_color=FFF&title_color=FFF) -->
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:end-->
 
 </td>
 <td valign="top" width="50%">
 
-#### 🩴 <a href="https://twitter.com/andatoshiki" target="_blank">Twitter updates</a>
+#### <a href="https://twitter.com/andatoshiki" target="_blank">Twitter updates</a>
 
 <!-- twitter_plugin_start -->
 
