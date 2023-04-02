@@ -13,4 +13,4 @@ jobs:
       - uses: actions/checkout@v2
       - uses: Readme-Workflows/recent-activity@v1.3.0
         env:
-          GITHUB_TOKEN: ${{ secrets.README_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GH_PAT }}
