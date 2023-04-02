@@ -61,7 +61,6 @@ Other        28 mins         █░░░░░░░░░░░░░░░░
 #### <a href="https://blog-next.toshiki.dev" target="_blank">Blog RSS updates</a>
 
 <!-- blog_plugin_start -->
-
 - <a href='https://www.nexxel.dev/blog/ct3a-guestbook/' target='_blank'>Build a Full Stack App with create-t3-app</a> - 2022-08-11
 - <a href='https://www.nexxel.dev/blog/ct3a/' target='_blank'>T3 Stack and My Most Popular Open Source Project Ever</a> - 2022-06-27
 - <a href='https://www.nexxel.dev/blog/deoxys/' target='_blank'>How I Made a Really Fast Link Shortener That Runs on the Edge</a> - 2022-06-01
@@ -88,7 +87,6 @@ Other        28 mins         █░░░░░░░░░░░░░░░░
 #### <a href="https://twitter.com/andatoshiki" target="_blank">Twitter updates</a>
 
 <!-- twitter_plugin_start -->
-
 - <a href='https://twitter.com/andatoshiki/status/1640183615249346560' target='_blank'>Verifying myself: I am toshikidev on http://Keybase.io. pQuYoKO8oET7dLOazltqkPLQs2MIceG5rr3m / https://keybase.io/toshikidev/sigs/pQuYoKO8oET7dLOazltq...</a> - 2023-03-27
 - <a href='https://twitter.com/andatoshiki/status/1639967758782812161' target='_blank'>Sakura 🌸 https://t.co/YoEmRMTmr3</a> - 2023-03-26
 - <a href='https://twitter.com/andatoshiki/status/1639542865130057729' target='_blank'>I love Excalidraw for architectural diagrams! #excalidraw #diagram #architecture #software #engineering #graph https://t.co/comucWgobW</a> - 2023-03-25
