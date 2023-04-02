@@ -14,7 +14,9 @@ Introduction once more, my name is Anda Toshiki, pronounced as `AHN-dah TOH-shee
 
 ### 2: Languages
 
-I speak three languages, **English** primarily, proficient in **Chinese** and fluent in **Japanese**, all three languages are welcomed to use when having conversations with me (I also don't mind blending them altogether).
+I was raised in a trilingual family since born thus I speak three languages, **English** primarily, proficient in **Chinese** and fluent in **Japanese**, all three languages are welcomed to use when having conversations with me, I also don't mind blending all three languages together as a way to improve my long-lost Japanese language grammar!
+
+I'm presently learning Spanish as one of the second-most widely spoken language in the world to fit the demands of writing *espanol* oriented documentation for better i18n experiences on my projects.
 
 ### 3: Academics
 
