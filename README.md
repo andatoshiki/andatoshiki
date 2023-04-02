@@ -109,7 +109,7 @@ Other        28 mins         █░░░░░░░░░░░░░░░░
 
 #### GitHub activity metrics
 
-<!-- ![Anda Toshiki's GitHub stats](https://github-readme-stats.vercel.app/api?username=andatoshiki&show_icons=false&theme=transparent&hide_border=true&text_color=FFF&icon_color=FFF&title_color=FFF) -->
+![Anda Toshiki's GitHub contribution](https://github-readme-activity-graph.cyclic.app/graph?username=andatoshiki&theme=github-compact)
 
 <!--RECENT_ACTIVITY:start-->
 <!--RECENT_ACTIVITY:end-->
