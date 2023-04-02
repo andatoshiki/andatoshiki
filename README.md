@@ -18,10 +18,6 @@ Introduction once more, my name is Anda Toshiki, pronounced as `AHN-dah TOH-shee
 
 - **Academics**: I current studying Data Science and Physics as core essentials for my academia. Frontend developing and Computer Networking are both my hobbies at rest while I mostly work with numbers and maths mainly. I am also obsessed with _process automation_, _CI/CD_, I am highly active on building practical GitHub actions for easing my DevOps life.
 
-### 4: Hobbies
-
-Below is a short intro on my personal hobbies I enjoys doing while I am free.
-
 - **Frontend development & blogging**: Aside from academic learnings, I am also captivated into frontend development and blogging, more specifically theming and beautification. I was introduced to [HUGO](https://github.com/gohugoio/hugo) when I first get started with website generator/blog building, I contributes one of the best hugo theme communities-[Fixit](https://github.com/hugo-fixit/FixIt) on GitHub. I have also independently created other themes such as gallery and showcasing sites (see more in the projects table below)...
 
 - **Documenting**: I have a strong eagerness on finding the best solution for issues I encounters and devote to understand hard concepts; in order to respond to this fetish, I enjoys documenting notes and epiphanies in detailed and specific no matter how much time it waste, it deserves my dedication (see my notes [in action](https://note.toshiki.dev)).
@@ -33,6 +29,12 @@ Below is a short intro on my personal hobbies I enjoys doing while I am free.
 - **Collectomania**: I love collecting resources from different field, from photography sets to reference books to torrents to movies et cetera. (But I usually read through any of them instead just let them sit in my hard drives).
 
 - **Photography & photo editing**: I have intermediate experience with photography editing with both PhotoShop and Illustrator and have been using both tools on daily bases to commit minor edits on photos to level of perfections; I am also interested in photography, I records everything aesthetic in life with cameras and showcase them at my [web gallery](https://gallery.toshiki.dev).
+
+In order to prove my real identity as a human being, I have verified my identity with a GPG public key hosted on [Keybase - Anda Toshiki (@toshikidev)](https://keybase.io/toshikidev) with [ownership of domain `www.toshiki.dev`](https://keybase.io/toshikidev/sigchain#7a41ec772fd948db46e454c55efc71005299fe7b3ed76b789bbcdb5a7505667c0f) via https; which validates I am legitimately a **cute, living human loli** on Earth, you can pull and import my GPG public keys onto your local machine with the following command using cURL.
+
+```sh
+curl https://keybase.io/toshikidev/pgp_keys.asc | gpg --import
+```
 
 ### 5: Technologies
 
@@ -65,8 +67,6 @@ In order to prove my real identity as a human being, I have verified my identity
 ```sh
 curl https://keybase.io/toshikidev/pgp_keys.asc | gpg --import
 ```
-
-### 7. Metrics
 
 <table width="960px">
 <tr>
