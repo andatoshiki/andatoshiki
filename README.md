@@ -87,11 +87,11 @@ Other        28 mins         █░░░░░░░░░░░░░░░░
 #### <a href="https://twitter.com/andatoshiki" target="_blank">Twitter updates</a>
 
 <!-- twitter_plugin_start -->
+- <a href='https://twitter.com/andatoshiki/status/1643210118077763586' target='_blank'>Re @rebecca_hoshino https://t.co/x1Nu8HcG3A</a> - 2023-04-04
+- <a href='https://twitter.com/andatoshiki/status/1643209761998135298' target='_blank'>Re @linuxopsys @SaveToNotion #tweet</a> - 2023-04-04
 - <a href='https://twitter.com/andatoshiki/status/1640183615249346560' target='_blank'>Verifying myself: I am toshikidev on http://Keybase.io. pQuYoKO8oET7dLOazltqkPLQs2MIceG5rr3m / https://keybase.io/toshikidev/sigs/pQuYoKO8oET7dLOazltq...</a> - 2023-03-27
 - <a href='https://twitter.com/andatoshiki/status/1639967758782812161' target='_blank'>Sakura 🌸 https://t.co/YoEmRMTmr3</a> - 2023-03-26
 - <a href='https://twitter.com/andatoshiki/status/1639542865130057729' target='_blank'>I love Excalidraw for architectural diagrams! #excalidraw #diagram #architecture #software #engineering #graph https://t.co/comucWgobW</a> - 2023-03-25
-- <a href='https://twitter.com/andatoshiki/status/1633310247464091649' target='_blank'>Re @hamident83hami @SaveToNotion tweet</a> - 2023-03-08
-- <a href='https://twitter.com/andatoshiki/status/1633080703771639809' target='_blank'>Re @LinuxHandbook @SaveToNotion #thread</a> - 2023-03-07
 
 <!-- twitter_plugin_end -->
 
