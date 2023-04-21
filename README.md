@@ -61,7 +61,6 @@ Other        28 mins         █░░░░░░░░░░░░░░░░
 #### <a href="https://blog-next.toshiki.dev" target="_blank">Blog RSS updates</a>
 
 <!-- blog_plugin_start -->
-
 - <a href='https://www.nexxel.dev/blog/ct3a-guestbook/' target='_blank'>Build a Full Stack App with create-t3-app</a> - 2022-08-11
 - <a href='https://www.nexxel.dev/blog/ct3a/' target='_blank'>T3 Stack and My Most Popular Open Source Project Ever</a> - 2022-06-27
 - <a href='https://www.nexxel.dev/blog/deoxys/' target='_blank'>How I Made a Really Fast Link Shortener That Runs on the Edge</a> - 2022-06-01
@@ -88,7 +87,6 @@ Other        28 mins         █░░░░░░░░░░░░░░░░
 #### <a href="https://twitter.com/andatoshiki" target="_blank">Twitter updates</a>
 
 <!-- twitter_plugin_start -->
-
 - <a href='https://twitter.com/andatoshiki/status/1645338285261172736' target='_blank'>Re @Notepad_plus True</a> - 2023-04-10
 - <a href='https://twitter.com/andatoshiki/status/1645324859055173633' target='_blank'>Verifying myself: I am andatoshiki on http://Keybase.io. 3jwz-joWZi5bh85dmH6uFyHFd4hJpY1IjEAy / https://keybase.io/andatoshiki/sigs/3jwz-joWZi5bh85dmH...</a> - 2023-04-10
 - <a href='https://twitter.com/andatoshiki/status/1643737707926159360' target='_blank'>Re @MIT_CSAIL @Prathkum @SaveToNotion #tweet</a> - 2023-04-05
