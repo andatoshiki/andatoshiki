@@ -80,7 +80,7 @@ Other        28 mins         █░░░░░░░░░░░░░░░░
 
 <!--RECENT_ACTIVITY:start-->
 
-1. ❗️ Opened issue [#53](https://github.com/eggsy/website/issues/53) in [eggsy/website](https://github.com/eggsy/website)
+1. ❗️ Closed issue [#53](https://github.com/eggsy/website/issues/53) in [eggsy/website](https://github.com/eggsy/website)
 <!--RECENT_ACTIVITY:end-->
 
 </td>
