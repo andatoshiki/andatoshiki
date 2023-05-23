@@ -80,7 +80,7 @@ Other        28 mins         █░░░░░░░░░░░░░░░░
 
 <!--RECENT_ACTIVITY:start-->
 
-1. ❗️ Closed issue [#53](https://github.com/eggsy/website/issues/53) in [eggsy/website](https://github.com/eggsy/website)
+1. ❗️ Opened issue [#60](https://github.com/andatoshiki/toshiki-notebook/issues/60) in [andatoshiki/toshiki-notebook](https://github.com/andatoshiki/toshiki-notebook)
 <!--RECENT_ACTIVITY:end-->
 
 </td>
