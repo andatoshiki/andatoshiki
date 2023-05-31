@@ -61,6 +61,7 @@ Other        28 mins         █░░░░░░░░░░░░░░░░
 #### <a href="https://blog-next.toshiki.dev" target="_blank">Blog RSS updates</a>
 
 <!-- blog_plugin_start -->
+
 - <a href='https://www.nexxel.dev/blog/ct3a-guestbook/' target='_blank'>Build a Full Stack App with create-t3-app</a> - 2022-08-11
 - <a href='https://www.nexxel.dev/blog/ct3a/' target='_blank'>T3 Stack and My Most Popular Open Source Project Ever</a> - 2022-06-27
 - <a href='https://www.nexxel.dev/blog/deoxys/' target='_blank'>How I Made a Really Fast Link Shortener That Runs on the Edge</a> - 2022-06-01
@@ -89,6 +90,7 @@ Other        28 mins         █░░░░░░░░░░░░░░░░
 #### <a href="https://twitter.com/andatoshiki" target="_blank">Twitter updates</a>
 
 <!-- twitter_plugin_start -->
+
 - <a href='https://twitter.com/andatoshiki/status/1659881240311529473' target='_blank'>好想谈恋爱</a> - 2023-05-20
 - <a href='https://twitter.com/andatoshiki/status/1658886856057180160' target='_blank'>Re @Terraria_Logic happy birthday</a> - 2023-05-17
 - <a href='https://twitter.com/andatoshiki/status/1645338285261172736' target='_blank'>Re @Notepad_plus True</a> - 2023-04-10
