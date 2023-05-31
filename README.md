@@ -61,12 +61,11 @@ Other        28 mins         █░░░░░░░░░░░░░░░░
 #### <a href="https://blog-next.toshiki.dev" target="_blank">Blog RSS updates</a>
 
 <!-- blog_plugin_start -->
-
-- <a href='https://www.nexxel.dev/blog/ct3a-guestbook/' target='_blank'>Build a Full Stack App with create-t3-app</a> - 2022-08-11
-- <a href='https://www.nexxel.dev/blog/ct3a/' target='_blank'>T3 Stack and My Most Popular Open Source Project Ever</a> - 2022-06-27
-- <a href='https://www.nexxel.dev/blog/deoxys/' target='_blank'>How I Made a Really Fast Link Shortener That Runs on the Edge</a> - 2022-06-01
-- <a href='https://www.nexxel.dev/blog/gen-license/' target='_blank'>Create Licenses for Your Projects Right from the Terminal</a> - 2022-03-25
-- <a href='https://www.nexxel.dev/blog/go-gol/' target='_blank'>Conway's Game of Life in Go</a> - 2022-03-17
+- <a href='https://www.nexxel.dev/blog/rust/' target='_blank'>Rust: Not Just Zoom Zoom Fast</a> - 2023-02-25
+- <a href='https://www.nexxel.dev/blog/pipe/' target='_blank'>Implementing the Pipe Operator in TypeScript</a> - 2023-01-21
+- <a href='https://www.nexxel.dev/blog/pattern-matching/' target='_blank'>Expressive Code with Pattern Matching</a> - 2022-12-29
+- <a href='https://www.nexxel.dev/blog/typesafe-database/' target='_blank'>Typesafe Database Queries on the Edge</a> - 2022-11-12
+- <a href='https://www.nexxel.dev/blog/wsl-workflow/' target='_blank'>My Developer Workflow Using WSL, tmux and Neovim</a> - 2022-08-16
 
 <!-- blog_plugin_end -->
 
@@ -90,7 +89,6 @@ Other        28 mins         █░░░░░░░░░░░░░░░░
 #### <a href="https://twitter.com/andatoshiki" target="_blank">Twitter updates</a>
 
 <!-- twitter_plugin_start -->
-
 - <a href='https://twitter.com/andatoshiki/status/1659881240311529473' target='_blank'>好想谈恋爱</a> - 2023-05-20
 - <a href='https://twitter.com/andatoshiki/status/1658886856057180160' target='_blank'>Re @Terraria_Logic happy birthday</a> - 2023-05-17
 - <a href='https://twitter.com/andatoshiki/status/1645338285261172736' target='_blank'>Re @Notepad_plus True</a> - 2023-04-10
