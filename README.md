@@ -80,7 +80,7 @@ Other        28 mins         █░░░░░░░░░░░░░░░░
 
 <!--RECENT_ACTIVITY:start-->
 
-1. ❗️ Opened issue [#75](https://github.com/andatoshiki/toshiki-notebook/issues/75) in [andatoshiki/toshiki-notebook](https://github.com/andatoshiki/toshiki-notebook)
+1. ❗️ Opened issue [#76](https://github.com/andatoshiki/toshiki-notebook/issues/76) in [andatoshiki/toshiki-notebook](https://github.com/andatoshiki/toshiki-notebook)
 <!--RECENT_ACTIVITY:end-->
 
 </td>
