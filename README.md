@@ -61,11 +61,11 @@ Other        28 mins         █░░░░░░░░░░░░░░░░
 #### <a href="https://blog-next.toshiki.dev" target="_blank">Blog RSS updates</a>
 
 <!-- blog_plugin_start -->
+- <a href='https://www.nexxel.dev/blog/neovim-to-vscode/' target='_blank'>Why I Switched From Neovim To VSCode</a> - 2023-06-23
 - <a href='https://www.nexxel.dev/blog/new-mac/' target='_blank'>Everything I Installed on My New Mac</a> - 2023-06-02
 - <a href='https://www.nexxel.dev/blog/rust/' target='_blank'>Rust: Not Just Zoom Zoom Fast</a> - 2023-02-25
 - <a href='https://www.nexxel.dev/blog/pipe/' target='_blank'>Implementing the Pipe Operator in TypeScript</a> - 2023-01-21
 - <a href='https://www.nexxel.dev/blog/pattern-matching/' target='_blank'>Expressive Code with Pattern Matching</a> - 2022-12-29
-- <a href='https://www.nexxel.dev/blog/typesafe-database/' target='_blank'>Typesafe Database Queries on the Edge</a> - 2022-11-12
 
 <!-- blog_plugin_end -->
 
