@@ -89,11 +89,11 @@ Other        28 mins         █░░░░░░░░░░░░░░░░
 #### <a href="https://twitter.com/andatoshiki" target="_blank">Twitter updates</a>
 
 <!-- twitter_plugin_start -->
+- <a href='https://twitter.com/andatoshiki/status/1673403983506083843' target='_blank'>Re @vim_tricks If I may ask a off track question out of the vim part, what is the keyboard input recording application/program used throughout the ani...</a> - 2023-06-26
+- <a href='https://twitter.com/andatoshiki/status/1673401878070304768' target='_blank'>Re @daboigbae Well nothing to do with me even if the description fits, cuz I work with rust. 😝</a> - 2023-06-26
 - <a href='https://twitter.com/andatoshiki/status/1659881240311529473' target='_blank'>好想谈恋爱</a> - 2023-05-20
 - <a href='https://twitter.com/andatoshiki/status/1658886856057180160' target='_blank'>Re @Terraria_Logic happy birthday</a> - 2023-05-17
 - <a href='https://twitter.com/andatoshiki/status/1645338285261172736' target='_blank'>Re @Notepad_plus True</a> - 2023-04-10
-- <a href='https://twitter.com/andatoshiki/status/1645324859055173633' target='_blank'>Verifying myself: I am andatoshiki on http://Keybase.io. 3jwz-joWZi5bh85dmH6uFyHFd4hJpY1IjEAy / https://keybase.io/andatoshiki/sigs/3jwz-joWZi5bh85dmH...</a> - 2023-04-10
-- <a href='https://twitter.com/andatoshiki/status/1643737707926159360' target='_blank'>Re @MIT_CSAIL @Prathkum @SaveToNotion #tweet</a> - 2023-04-05
 
 <!-- twitter_plugin_end -->
 
