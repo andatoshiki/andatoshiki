@@ -61,7 +61,6 @@ Other        28 mins         █░░░░░░░░░░░░░░░░
 #### <a href="https://blog-next.toshiki.dev" target="_blank">Blog RSS updates</a>
 
 <!-- blog_plugin_start -->
-
 - <a href='https://www.nexxel.dev/blog/neovim-to-vscode/' target='_blank'>Why I Switched From Neovim To VSCode</a> - 2023-06-23
 - <a href='https://www.nexxel.dev/blog/new-mac/' target='_blank'>Everything I Installed on My New Mac</a> - 2023-06-02
 - <a href='https://www.nexxel.dev/blog/rust/' target='_blank'>Rust: Not Just Zoom Zoom Fast</a> - 2023-02-25
@@ -90,7 +89,6 @@ Other        28 mins         █░░░░░░░░░░░░░░░░
 #### <a href="https://twitter.com/andatoshiki" target="_blank">Twitter updates</a>
 
 <!-- twitter_plugin_start -->
-
 - <a href='https://twitter.com/andatoshiki/status/1673403983506083843' target='_blank'>Re @vim_tricks If I may ask a off track question out of the vim part, what is the keyboard input recording application/program used throughout the ani...</a> - 2023-06-26
 - <a href='https://twitter.com/andatoshiki/status/1673401878070304768' target='_blank'>Re @daboigbae Well nothing to do with me even if the description fits, cuz I work with rust. 😝</a> - 2023-06-26
 - <a href='https://twitter.com/andatoshiki/status/1659881240311529473' target='_blank'>好想谈恋爱</a> - 2023-05-20
