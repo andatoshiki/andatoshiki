@@ -81,7 +81,7 @@ Other        28 mins         █░░░░░░░░░░░░░░░░
 
 <!--RECENT_ACTIVITY:start-->
 
-1. ❗️ Opened issue [#104](https://github.com/andatoshiki/toshiki-status/issues/104) in [andatoshiki/toshiki-status](https://github.com/andatoshiki/toshiki-status)
+1. 🎉 Merged PR [#1](https://github.com/andatoshiki/toshiki-e5subot/pull/1) in [andatoshiki/toshiki-e5subot](https://github.com/andatoshiki/toshiki-e5subot)
 <!--RECENT_ACTIVITY:end-->
 
 </td>
