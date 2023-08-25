@@ -81,7 +81,7 @@ Other        28 mins         █░░░░░░░░░░░░░░░░
 
 <!--RECENT_ACTIVITY:start-->
 
-1. 🎉 Merged PR [#1](https://github.com/andatoshiki/toshiki-e5subot/pull/1) in [andatoshiki/toshiki-e5subot](https://github.com/andatoshiki/toshiki-e5subot)
+1. ❗️ Opened issue [#1](https://github.com/fieu/r2-registry/issues/1) in [fieu/r2-registry](https://github.com/fieu/r2-registry)
 <!--RECENT_ACTIVITY:end-->
 
 </td>
