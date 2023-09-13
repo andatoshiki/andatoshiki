@@ -81,7 +81,7 @@ Other        28 mins         █░░░░░░░░░░░░░░░░
 
 <!--RECENT_ACTIVITY:start-->
 
-1. ❗️ Opened issue [#1](https://github.com/fieu/r2-registry/issues/1) in [fieu/r2-registry](https://github.com/fieu/r2-registry)
+1. ❗️ Closed issue [#78](https://github.com/andatoshiki/toshiki-notebook/issues/78) in [andatoshiki/toshiki-notebook](https://github.com/andatoshiki/toshiki-notebook)
 <!--RECENT_ACTIVITY:end-->
 
 </td>
