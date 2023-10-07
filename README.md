@@ -81,7 +81,7 @@ Other        28 mins         █░░░░░░░░░░░░░░░░
 
 <!--RECENT_ACTIVITY:start-->
 
-1. 🎉 Merged PR [#81](https://github.com/andatoshiki/toshiki-notebook/pull/81) in [andatoshiki/toshiki-notebook](https://github.com/andatoshiki/toshiki-notebook)
+1. 🎉 Merged PR [#2](https://github.com/andatoshiki/andatoshiki/pull/2) in [andatoshiki/andatoshiki](https://github.com/andatoshiki/andatoshiki)
 <!--RECENT_ACTIVITY:end-->
 
 </td>
