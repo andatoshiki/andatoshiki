@@ -61,12 +61,11 @@ Other        28 mins         █░░░░░░░░░░░░░░░░
 #### <a href="https://blog-next.toshiki.dev" target="_blank">Blog RSS updates</a>
 
 <!-- blog_plugin_start -->
-
+- <a href='https://www.nexxel.dev/blog/ricing-macos/' target='_blank'>Ricing MacOS</a> - 2023-11-01
 - <a href='https://www.nexxel.dev/blog/organising-life/' target='_blank'>How I Organise My Life</a> - 2023-08-03
 - <a href='https://www.nexxel.dev/blog/neovim-to-vscode/' target='_blank'>Why I Switched From Neovim To VSCode</a> - 2023-06-23
 - <a href='https://www.nexxel.dev/blog/new-mac/' target='_blank'>Everything I Installed on My New Mac</a> - 2023-06-02
 - <a href='https://www.nexxel.dev/blog/rust/' target='_blank'>Rust: Not Just Zoom Zoom Fast</a> - 2023-02-25
-- <a href='https://www.nexxel.dev/blog/pipe/' target='_blank'>Implementing the Pipe Operator in TypeScript</a> - 2023-01-21
 
 <!-- blog_plugin_end -->
 
@@ -90,12 +89,11 @@ Other        28 mins         █░░░░░░░░░░░░░░░░
 #### <a href="https://twitter.com/andatoshiki" target="_blank">Twitter updates</a>
 
 <!-- twitter_plugin_start -->
-
-- <a href='https://twitter.com/andatoshiki/status/1673403983506083843' target='_blank'>Re @vim_tricks If I may ask a off track question out of the vim part, what is the keyboard input recording application/program used throughout the ani...</a> - 2023-06-26
-- <a href='https://twitter.com/andatoshiki/status/1673401878070304768' target='_blank'>Re @daboigbae Well nothing to do with me even if the description fits, cuz I work with rust. 😝</a> - 2023-06-26
-- <a href='https://twitter.com/andatoshiki/status/1659881240311529473' target='_blank'>好想谈恋爱</a> - 2023-05-20
-- <a href='https://twitter.com/andatoshiki/status/1658886856057180160' target='_blank'>Re @Terraria_Logic happy birthday</a> - 2023-05-17
-- <a href='https://twitter.com/andatoshiki/status/1645338285261172736' target='_blank'>Re @Notepad_plus True</a> - 2023-04-10
+- <a href='https://twitter.com/andatoshiki/status/1728514755806331356' target='_blank'>Re @hashashaaaa @SaveToNotion #tweet</a> - 2023-11-27
+- <a href='https://twitter.com/andatoshiki/status/1728696748585943130' target='_blank'>Re @TransientCode @SaveToNotion #tweet</a> - 2023-11-27
+- <a href='https://twitter.com/andatoshiki/status/1728925350913012140' target='_blank'>Re @HiTw93 @SaveToNotion #post</a> - 2023-11-27
+- <a href='https://twitter.com/andatoshiki/status/1727731541781152035' target='_blank'>Re @karpathy @SaveToNotion #post</a> - 2023-11-27
+- <a href='https://twitter.com/andatoshiki/status/1728925350913012140' target='_blank'>Re @HiTw93 @SaveToNotion #thread</a> - 2023-11-27
 
 <!-- twitter_plugin_end -->
 
