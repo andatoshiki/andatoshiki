@@ -89,7 +89,7 @@ Other        28 mins         █░░░░░░░░░░░░░░░░
 #### <a href="https://twitter.com/andatoshiki" target="_blank">Twitter updates</a>
 
 <!-- twitter_plugin_start -->
-- <a href='https://twitter.com/andatoshiki/status/1745988281320559007' target='_blank'>With a large injection of efforts and coffee poured into the artwork illustration in addition to the renovation of the HTTP status code in traditional...</a> - 2024-01-13
+- <a href='https://twitter.com/andatoshiki/status/1746362921129759050' target='_blank'>An alternative replacement to substitute the traditional HTTP status code of generic servers with traditional serif font of into a playfully artistic ...</a> - 2024-01-14
 - <a href='https://twitter.com/andatoshiki/status/1728514755806331356' target='_blank'>Re @hashashaaaa @SaveToNotion #tweet</a> - 2023-11-27
 - <a href='https://twitter.com/andatoshiki/status/1728696748585943130' target='_blank'>Re @TransientCode @SaveToNotion #tweet</a> - 2023-11-27
 - <a href='https://twitter.com/andatoshiki/status/1728925350913012140' target='_blank'>Re @HiTw93 @SaveToNotion #post</a> - 2023-11-27
