@@ -61,6 +61,7 @@ Other        28 mins         █░░░░░░░░░░░░░░░░
 #### <a href="https://blog-next.toshiki.dev" target="_blank">Blog RSS updates</a>
 
 <!-- blog_plugin_start -->
+
 - <a href='https://www.nexxel.dev/blog/ricing-macos/' target='_blank'>Ricing MacOS</a> - 2023-11-01
 - <a href='https://www.nexxel.dev/blog/organising-life/' target='_blank'>How I Organise My Life</a> - 2023-08-03
 - <a href='https://www.nexxel.dev/blog/neovim-to-vscode/' target='_blank'>Why I Switched From Neovim To VSCode</a> - 2023-06-23
@@ -89,6 +90,7 @@ Other        28 mins         █░░░░░░░░░░░░░░░░
 #### <a href="https://twitter.com/andatoshiki" target="_blank">Twitter updates</a>
 
 <!-- twitter_plugin_start -->
+
 - <a href='https://twitter.com/andatoshiki/status/1747806334618325116' target='_blank'>The season of Quattro had ultimately came upon the arrival of my Audi A6 delivery. #audi #german #firstcar #freshman #asu2024 #audia6</a> - 2024-01-18
 - <a href='https://twitter.com/andatoshiki/status/1747044068155347330' target='_blank'>物是人非、もう過去ではなだ.</a> - 2024-01-15
 - <a href='https://twitter.com/andatoshiki/status/1746362921129759050' target='_blank'>An alternative replacement to substitute the traditional HTTP status code of generic servers with traditional serif font of into a playfully artistic ...</a> - 2024-01-14
