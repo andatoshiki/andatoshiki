@@ -61,6 +61,7 @@ Other        28 mins         █░░░░░░░░░░░░░░░░
 #### <a href="https://blog-next.toshiki.dev" target="_blank">Blog RSS updates</a>
 
 <!-- blog_plugin_start -->
+
 - <a href='https://www.nexxel.dev/blog/ricing-macos/' target='_blank'>Ricing MacOS</a> - 2023-11-01
 - <a href='https://www.nexxel.dev/blog/organising-life/' target='_blank'>How I Organise My Life</a> - 2023-08-03
 - <a href='https://www.nexxel.dev/blog/neovim-to-vscode/' target='_blank'>Why I Switched From Neovim To VSCode</a> - 2023-06-23
@@ -89,6 +90,7 @@ Other        28 mins         █░░░░░░░░░░░░░░░░
 #### <a href="https://twitter.com/andatoshiki" target="_blank">Twitter updates</a>
 
 <!-- twitter_plugin_start -->
+
 - <a href='https://twitter.com/andatoshiki/status/1750450941256516016' target='_blank'>Re @shitpost_2077 @TweetHelperBot download this</a> - 2024-01-26
 - <a href='https://twitter.com/andatoshiki/status/1750709974139859152' target='_blank'>Re @Darkteshoud @Tenzalt @tweethelperbot download this</a> - 2024-01-26
 - <a href='https://twitter.com/andatoshiki/status/1750472900702814703' target='_blank'>Re @weirddalle @TweetHelperBot download this</a> - 2024-01-26
