@@ -89,9 +89,9 @@ Other        28 mins         █░░░░░░░░░░░░░░░░
 #### <a href="https://twitter.com/andatoshiki" target="_blank">Twitter updates</a>
 
 <!-- twitter_plugin_start -->
-- <a href='https://twitter.com/andatoshiki/status/1750450941256516016' target='_blank'>Re @shitpost_2077 @TweetHelperBot download this</a> - 2024-01-26
-- <a href='https://twitter.com/andatoshiki/status/1750709974139859152' target='_blank'>Re @Darkteshoud @Tenzalt @tweethelperbot download this</a> - 2024-01-26
-- <a href='https://twitter.com/andatoshiki/status/1750472900702814703' target='_blank'>Re @weirddalle @TweetHelperBot download this</a> - 2024-01-26
+- <a href='https://twitter.com/andatoshiki/status/1750886318887104727' target='_blank'>Re @shitpost_2077 @TweetHelperBot download this</a> - 2024-01-26
+- <a href='https://twitter.com/andatoshiki/status/1750819533718474783' target='_blank'>Re @Darkteshoud @Tenzalt @tweethelperbot download this</a> - 2024-01-26
+- <a href='https://twitter.com/andatoshiki/status/1750803241456316910' target='_blank'>Re @weirddalle @TweetHelperBot download this</a> - 2024-01-26
 - <a href='https://twitter.com/andatoshiki/status/1747806334618325116' target='_blank'>The season of Quattro had ultimately came upon the arrival of my Audi A6 delivery. #audi #german #firstcar #freshman #asu2024 #audia6</a> - 2024-01-18
 - <a href='https://twitter.com/andatoshiki/status/1747044068155347330' target='_blank'>物是人非、もう過去ではなだ.</a> - 2024-01-15
 
