@@ -81,7 +81,7 @@ Other        28 mins         █░░░░░░░░░░░░░░░░
 
 <!--RECENT_ACTIVITY:start-->
 
-1. 🎉 Merged PR [#1](https://github.com/andatoshiki/toshiki-geminibot/pull/1) in [andatoshiki/toshiki-geminibot](https://github.com/andatoshiki/toshiki-geminibot)
+1. 🎉 Merged PR [#8](https://github.com/andatoshiki/toshiki-rssbot/pull/8) in [andatoshiki/toshiki-rssbot](https://github.com/andatoshiki/toshiki-rssbot)
 <!--RECENT_ACTIVITY:end-->
 
 </td>
