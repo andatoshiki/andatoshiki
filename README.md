@@ -81,7 +81,7 @@ Other        28 mins         █░░░░░░░░░░░░░░░░
 
 <!--RECENT_ACTIVITY:start-->
 
-1. 🎉 Merged PR [#8](https://github.com/andatoshiki/toshiki-rssbot/pull/8) in [andatoshiki/toshiki-rssbot](https://github.com/andatoshiki/toshiki-rssbot)
+1. 🗣 Commented on [#63](https://github.com/andatoshiki/toshiki-notebook/issues/63) in [andatoshiki/toshiki-notebook](https://github.com/andatoshiki/toshiki-notebook)
 <!--RECENT_ACTIVITY:end-->
 
 </td>
