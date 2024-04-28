@@ -81,7 +81,7 @@ Other        28 mins         █░░░░░░░░░░░░░░░░
 
 <!--RECENT_ACTIVITY:start-->
 
-1. ❗️ Opened issue [#144](https://github.com/andatoshiki/toshiki-notebook/issues/144) in [andatoshiki/toshiki-notebook](https://github.com/andatoshiki/toshiki-notebook)
+1. 💪 Opened PR [#5](https://github.com/funeral-rain/toya.moe/pull/5) in [funeral-rain/toya.moe](https://github.com/funeral-rain/toya.moe)
 <!--RECENT_ACTIVITY:end-->
 
 </td>
