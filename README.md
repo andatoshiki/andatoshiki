@@ -81,7 +81,7 @@ Other        28 mins         █░░░░░░░░░░░░░░░░
 
 <!--RECENT_ACTIVITY:start-->
 
-1. 💪 Opened PR [#5](https://github.com/funeral-rain/toya.moe/pull/5) in [funeral-rain/toya.moe](https://github.com/funeral-rain/toya.moe)
+1. 🗣 Commented on [#110](https://github.com/andatoshiki/toshiki-status/issues/110) in [andatoshiki/toshiki-status](https://github.com/andatoshiki/toshiki-status)
 <!--RECENT_ACTIVITY:end-->
 
 </td>
