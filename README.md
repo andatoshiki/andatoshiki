@@ -81,7 +81,7 @@ Other        28 mins         █░░░░░░░░░░░░░░░░
 
 <!--RECENT_ACTIVITY:start-->
 
-1. 🗣 Commented on [#804](https://github.com/Schweinepriester/github-profile-achievements/issues/804) in [Schweinepriester/github-profile-achievements](https://github.com/Schweinepriester/github-profile-achievements)
+1. 🗣 Commented on [#146](https://github.com/andatoshiki/toshiki-status/issues/146) in [andatoshiki/toshiki-status](https://github.com/andatoshiki/toshiki-status)
 <!--RECENT_ACTIVITY:end-->
 
 </td>
