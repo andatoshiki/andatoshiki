@@ -81,7 +81,7 @@ Other        28 mins         █░░░░░░░░░░░░░░░░
 
 <!--RECENT_ACTIVITY:start-->
 
-1. ❗️ Closed issue [#274](https://github.com/andatoshiki/toshiki-status/issues/274) in [andatoshiki/toshiki-status](https://github.com/andatoshiki/toshiki-status)
+1. 🎉 Merged PR [#1](https://github.com/andatoshiki/shikigotchi/pull/1) in [andatoshiki/shikigotchi](https://github.com/andatoshiki/shikigotchi)
 <!--RECENT_ACTIVITY:end-->
 
 </td>
