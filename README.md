@@ -81,7 +81,7 @@ Other        28 mins         █░░░░░░░░░░░░░░░░
 
 <!--RECENT_ACTIVITY:start-->
 
-1. 🗣 Commented on [#362](https://github.com/andatoshiki/toshiki-status/issues/362) in [andatoshiki/toshiki-status](https://github.com/andatoshiki/toshiki-status)
+1. 💪 Opened PR [#1](https://github.com/andatoshiki/shikigrid/pull/1) in [andatoshiki/shikigrid](https://github.com/andatoshiki/shikigrid)
 <!--RECENT_ACTIVITY:end-->
 
 </td>
