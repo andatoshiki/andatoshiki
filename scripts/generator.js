@@ -1,12 +1,14 @@
 const fs = require('fs')
 const path = require('path')
 
+const ENCODING = 'utf-8'
+
 class Generator {
   constructor(filePath) {
     const dist = path.resolve(__dirname, filePath)
 
     this.dist = dist
-    this.content = fs.readFileSync(dist, { encoding: 'utf-8' })
+    this.content = fs.readFileSync(dist, { encoding: ENCODING })
   }
 
   render(name, newContent) {
@@ -18,7 +20,7 @@ class Generator {
   }
 
   update() {
-    fs.writeFileSync(this.dist, this.content, { encoding: 'utf-8' })
+    fs.writeFileSync(this.dist, this.content, { encoding: ENCODING })
   }
 }
 
