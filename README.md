@@ -81,7 +81,7 @@ Other        28 mins         █░░░░░░░░░░░░░░░░
 
 <!--RECENT_ACTIVITY:start-->
 
-1. ❗️ Opened issue [#1360](https://github.com/andatoshiki/toshiki-status/issues/1360) in [andatoshiki/toshiki-status](https://github.com/andatoshiki/toshiki-status)
+1. ❗️ Opened issue [#1361](https://github.com/andatoshiki/toshiki-status/issues/1361) in [andatoshiki/toshiki-status](https://github.com/andatoshiki/toshiki-status)
 <!--RECENT_ACTIVITY:end-->
 
 </td>
