@@ -81,7 +81,7 @@ Other        28 mins         █░░░░░░░░░░░░░░░░
 
 <!--RECENT_ACTIVITY:start-->
 
-1. 🗣 Commented on [#1788](https://github.com/andatoshiki/toshiki-status/issues/1788) in [andatoshiki/toshiki-status](https://github.com/andatoshiki/toshiki-status)
+1. 🗣 Commented on [#1789](https://github.com/andatoshiki/toshiki-status/issues/1789) in [andatoshiki/toshiki-status](https://github.com/andatoshiki/toshiki-status)
 <!--RECENT_ACTIVITY:end-->
 
 </td>
