@@ -81,7 +81,7 @@ Other        28 mins         █░░░░░░░░░░░░░░░░
 
 <!--RECENT_ACTIVITY:start-->
 
-1. 🗣 Commented on [#1290](https://github.com/torvalds/linux/issues/1290) in [torvalds/linux](https://github.com/torvalds/linux)
+1. 🗣 Commented on [#1836](https://github.com/andatoshiki/toshiki-status/issues/1836) in [andatoshiki/toshiki-status](https://github.com/andatoshiki/toshiki-status)
 <!--RECENT_ACTIVITY:end-->
 
 </td>
