@@ -81,7 +81,7 @@ Other        28 mins         █░░░░░░░░░░░░░░░░
 
 <!--RECENT_ACTIVITY:start-->
 
-1. ❌ Closed PR [#1](https://github.com/toshikidev/hexabyte/pull/1) in [toshikidev/hexabyte](https://github.com/toshikidev/hexabyte)
+1. 💪 Opened PR [#2](https://github.com/toshikidev/hexabyte/pull/2) in [toshikidev/hexabyte](https://github.com/toshikidev/hexabyte)
 <!--RECENT_ACTIVITY:end-->
 
 </td>
