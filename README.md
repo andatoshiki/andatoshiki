@@ -81,7 +81,7 @@ Other        28 mins         █░░░░░░░░░░░░░░░░
 
 <!--RECENT_ACTIVITY:start-->
 
-1. ❌ Closed PR [#2](https://github.com/toshikidev/hexabyte/pull/2) in [toshikidev/hexabyte](https://github.com/toshikidev/hexabyte)
+1. 💪 Opened PR [#36](https://github.com/superman66/wakatime-sync/pull/36) in [superman66/wakatime-sync](https://github.com/superman66/wakatime-sync)
 <!--RECENT_ACTIVITY:end-->
 
 </td>
