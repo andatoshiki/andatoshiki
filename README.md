@@ -81,7 +81,7 @@ Other        28 mins         █░░░░░░░░░░░░░░░░
 
 <!--RECENT_ACTIVITY:start-->
 
-1. 💪 Opened PR [#36](https://github.com/superman66/wakatime-sync/pull/36) in [superman66/wakatime-sync](https://github.com/superman66/wakatime-sync)
+1. 🗣 Commented on [#29](https://github.com/superman66/wakatime-sync/issues/29) in [superman66/wakatime-sync](https://github.com/superman66/wakatime-sync)
 <!--RECENT_ACTIVITY:end-->
 
 </td>
