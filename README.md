@@ -81,7 +81,7 @@ Other        28 mins         █░░░░░░░░░░░░░░░░
 
 <!--RECENT_ACTIVITY:start-->
 
-1. 🗣 Commented on [#29](https://github.com/superman66/wakatime-sync/issues/29) in [superman66/wakatime-sync](https://github.com/superman66/wakatime-sync)
+1. ❗️ Opened issue [#1842](https://github.com/andatoshiki/toshiki-status/issues/1842) in [andatoshiki/toshiki-status](https://github.com/andatoshiki/toshiki-status)
 <!--RECENT_ACTIVITY:end-->
 
 </td>
